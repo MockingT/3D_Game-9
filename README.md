@@ -72,4 +72,6 @@
               }
               yield return null;
           }
-      }
+      }  
+      
+- 脚本写完，一个个挂载到button上，将脚本里的Text选定为对应的文本名字即可。
